@@ -1,17 +1,16 @@
-# Sudo-Flix
-[![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.undi.rest)  
+# ANBFilms
+[![ANBFilms Image](.github/Sudo-Flix.png)](https://docs.undi.rest)  
 
 **I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
 
 ## Links And Resources
 | Service        | Link                                                             | Source Code                                              |
 |----------------|------------------------------------------------------------------|----------------------------------------------------------|
-| Sudo-Flix Docs | [sudo-docs](https://docs.undi.rest)                          | [source code](https://github.com/sussy-code/docs)        |
+| ANBFilms Docs | [anb-docs](https://docs.undi.rest)                          | [source code](https://github.com/sussy-code/docs)        |
 | Extension      | [extension](https://docs.undi.rest/extension)                | [source code](https://github.com/sussy-code/browser-ext) |
 | Proxy          | [sudo-proxy](https://sudo-proxy.up.railway.app)              | [source code](https://github.com/sussy-code/sudo-proxy)  |             
 | Backend        | [sudo-backend](https://backend.undi.rest)                    | [source code](https://github.com/sussy-code/backend)     |
-| Frontend       | [sudo-flix](https://docs.undi.rest/instances)                | [source code](https://github.com/sussy-code/smov)        |
-| Weblate        | [sudo-weblate](https://docs.undi.rest/links/weblate)         | [source code](https://github.com/sussy-code/docs)        |
+| Frontend       | [anbfilms](https://docs.undi.rest/instances)                | [source code](https://github.com/sussy-code/smov)        |
 
 ***I provide these if you are not able to host yourself, though I do encourage hosting the frontend.***
 
@@ -26,7 +25,7 @@
 
 
 ## Running Locally
-Type the following commands into your terminal / command line to run Sudo-Flix locally
+Type the following commands into your terminal / command line to run ANBFilms locally
 ```bash
 git clone https://github.com/sussy-code/smov.git
 cd smov
@@ -53,3 +52,4 @@ git push  # Push to YOUR repository
 
 ## Contact Me
 **Email:** *[dev@sudo-flix.lol](mailto:dev@sudo-flix.lol)* 
+
